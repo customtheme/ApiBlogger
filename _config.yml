@@ -9,8 +9,7 @@ name: Api Blogger Example
 description: This is example for Api Blogger Expetiment
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-
+avatar: https://raw.githubusercontent.com/customtheme/ApiBlogger/master/images/unnamed.png
 #
 # Flags below are optional
 #
