@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Sekedar informasi,  ini adalah halaman github yang baru saja saya coba buat, untuk keperluan membuat proyek sumber terbuka. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Untuk terhubung dengan saya,  silahkan hubungi saya lewat email fi bawah ini. 
 
 ### Contact me
 
-[@anissunayati@gmail.com](mailto:anissunaryati@gmail.com)
+[anissunayati@gmail.com](mailto:anissunaryati@gmail.com)
