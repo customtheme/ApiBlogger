@@ -1,206 +1,58 @@
-{
- "kind": "blogger#postList",
- "nextPageToken": "CgkIBhjD-_jLsCsQjaqslLG12tRL",
- "items": [
-  {
-   "kind": "blogger#post",
-   "id": "5747929378895876176",
-   "blog": {
-    "id": "5452005007380124941"
-   },
-   "published": "2017-06-09T14:15:00+07:00",
-   "updated": "2018-07-06T03:47:17+07:00",
-   "etag": "\"6YgnukNTybWNqfyQ59zQxEe_LDQ/dGltZXN0YW1wOiAxNTMwODIzNjM3Nzk1Cm9mZnNldDogMjUyMDAwMDAK\"",
-   "url": "http://godropship.blogspot.com/2017/06/model-jaket-terbaru-2017-camo-snowboard.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5452005007380124941/posts/5747929378895876176",
-   "title": "Model Jaket Terbaru 2017 Camo Snowboard Jacket",
-   "images": [
-    {
-     "url": "https://2.bp.blogspot.com/-3_NKGmBBFGk/Wz5rA79S23I/AAAAAAAAEak/LWD-Yz2c_9ku7vhY8C3-DsqOgG-Qz2EDwCPcBGAYYCw/s640/Camo%2BSnowboard%2BJacket.jpg"
-    }
-   ],
-   "author": {
-    "id": "g106350186227191394109",
-    "displayName": "Agus Tamanuri",
-    "url": "https://www.blogger.com/profile/04364554722322845234",
-    "image": {
-     "url": "//lh3.googleusercontent.com/-nbsxt9Ql-oo/AAAAAAAAAAI/AAAAAAAAERs/5o5uxI0f62k/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5452005007380124941/posts/5747929378895876176/comments"
-   },
-   "labels": [
-    "Jaket"
+{  
+   "items":[  
+      {  
+         "id":1668757,
+         "title":"Model Jaket Terbaru 2017 Camo Snowboard Jacket",
+         "author":"Bang Dropship",
+         "author_url":"https:\/\/www.blogger.com/\profile/\04364554722322845234",
+         "date":"7 hours ago",
+         "image":"https:/\/\2.bp.blogspot.com/\-3_NKGmBBFGk/\Wz5rA79S23I/\AAAAAAAAEak/\LWD-Yz2c_9ku7vhY8C3-DsqOgG-Qz2EDwCPcBGAYYCw/\s640/\Camo%2BSnowboard%2BJacket.jpg",
+         "url":"https:\/\/godropship.blogspot.com\/\2017\/\06/\model-jaket-terbaru-2017-camo-snowboard.html"
+      },
+      {  
+         "id":1668977,
+         "title":"Inilah Jaket Distro Terbaru 2017 Paling Banyak di Cari",
+         "author":"Bang Dropship",
+         "author_url":"https:\/\/www.blogger.com/\profile/\04364554722322845234",
+         "date":"8 hours ago",
+         "image": "https:/\/\3.bp.blogspot.com/\-gr-GQAomcUY/\Wz5rA1FzilI/\AAAAAAAAEag/\Bae-zovh_-UlzJQXBFR0wg1b0W6VMGXIACPcBGAYYCw/\s640/\Bomber%2BJacket%2B2017.jpg",
+         "url":"https:/\/\godropship.blogspot.com/\2017/\06/\inilah-jaket-distro-terbaru-2017.html"
+      },
+      {  
+         "id":1668942,
+         "title":"Dropship Jaket Bomber Model Terbaru Bahan Parasut",
+         "author":"Bang Dropship",
+         "author_url":"https:\/\/www.blogger.com/\profile/\04364554722322845234",
+         "date":"9 hours ago",
+         "image":"https:/\/\3.bp.blogspot.com/\-K0UZCLwQbes/\WOPZ6_zjAMI/\AAAAAAAAD2U/\DF6s7iseAYE_EYz6yeveytljbu4prC9RwCLcB/\s640/\alan-walker-face-and-full-body-wallpaper.jpg",
+         "url":"https:/\/\godropship.blogspot.com/\2017/\04/\dropship-jaket-bomber-model-terbaru.html"
+      },
+      {  
+         "id":1668651,
+         "title":"Dropship Coach Windbreaker ASSC Sablon Polyflex",
+         "author":"Bang Dropship",
+         "author_url":"https:\/\/www.blogger.com/\profile/\04364554722322845234",
+         "date":"9 hours ago",
+         "image":"https:/\/\4.bp.blogspot.com/\-qQ8SMkZp-WE/\WOLX3rG-FNI/\AAAAAAAAD1Y/\DsBds5TpdyY6dHIbO68f60ld70Vsc9pYQCLcB/\s640/\Jaket%2BWindbreaker%2BASSC%2BBahan%2BWaterproof.png",
+         "url":"https:/\/\godropship.blogspot.com/\2017/\04/\dropship-jaket-coach-windbreaker-assc.html"
+      },
+      {  
+         "id":1667796,
+         "title":"Jaket Coach Thrasher Pentagram Hitam Waterproof",
+         "author":"Bang Dropship",
+         "author_url":"https:\/\/www.blogger.com/\profile/\04364554722322845234",
+         "date":"9 hours ago",
+         "image":"https:/\/\2.bp.blogspot.com/\-1wPmMZn3f8s/\WNuAdxCD-SI/\AAAAAAADuY/\ZtTlXbUrEuYJMgthkpa7YxTs3PfEUIcJwCLcB/\s640/\Jaket%2BCoach%2BWindbreaker%2BTrasher%2Bby%2BDondom.png",
+         "url":"https:/\/\godropship.blogspot.com/\2017/\03/\jual-jaket-coach-thrasher-pentagram.html"
+      },
+      {  
+         "id":1668666,
+         "title":"Dropship Jaket Coach Windbreaker Murah Meriah",
+         "author":"Bang Dropship",
+         "author_url":"https:\/\/www.blogger.com/\profile/\04364554722322845234",
+         "date":"9 hours ago",
+         "image":"https:/\/\4.bp.blogspot.com/\-OvImIfb31pc/\WOKZk3ceyoI/\AAAAAAAAD0k/\VTABNFWB9RgkuXNSFwzbV-MAAj-6hHRAACLcB/\s640/\Line%2BProduk.png",
+         "url":"https:/\/\godropship.blogspot.com/\2017/\04/\dropship-jaket-coach-windbreaker.html"
+      }
    ]
-  },
-  {
-   "kind": "blogger#post",
-   "id": "9028270840957492537",
-   "blog": {
-    "id": "5452005007380124941"
-   },
-   "published": "2017-06-04T22:55:00+07:00",
-   "updated": "2018-07-06T02:38:13+07:00",
-   "etag": "\"6YgnukNTybWNqfyQ59zQxEe_LDQ/dGltZXN0YW1wOiAxNTMwODE5NDkzNzE0Cm9mZnNldDogMjUyMDAwMDAK\"",
-   "url": "http://godropship.blogspot.com/2017/06/inilah-jaket-distro-terbaru-2017.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5452005007380124941/posts/9028270840957492537",
-   "title": "Inilah Jaket Distro Terbaru 2017 Paling Banyak di Cari",
-   "images": [
-    {
-     "url": "https://3.bp.blogspot.com/-gr-GQAomcUY/Wz5rA1FzilI/AAAAAAAAEag/Bae-zovh_-UlzJQXBFR0wg1b0W6VMGXIACPcBGAYYCw/s640/Bomber%2BJacket%2B2017.jpg"
-    }
-   ],
-   "author": {
-    "id": "g106350186227191394109",
-    "displayName": "Agus Tamanuri",
-    "url": "https://www.blogger.com/profile/04364554722322845234",
-    "image": {
-     "url": "//lh3.googleusercontent.com/-nbsxt9Ql-oo/AAAAAAAAAAI/AAAAAAAAERs/5o5uxI0f62k/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5452005007380124941/posts/9028270840957492537/comments"
-   },
-   "labels": [
-    "Jaket"
-   ]
-  },
-  {
-   "kind": "blogger#post",
-   "id": "6708367016845335442",
-   "blog": {
-    "id": "5452005007380124941"
-   },
-   "published": "2017-04-05T06:18:00+07:00",
-   "updated": "2018-07-05T10:08:19+07:00",
-   "etag": "\"6YgnukNTybWNqfyQ59zQxEe_LDQ/dGltZXN0YW1wOiAxNTMwNzYwMDk5MTA5Cm9mZnNldDogMjUyMDAwMDAK\"",
-   "url": "http://godropship.blogspot.com/2017/04/dropship-jaket-bomber-model-terbaru.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5452005007380124941/posts/6708367016845335442",
-   "title": "Dropship Jaket Bomber Model Terbaru Bahan Parasut",
-   "images": [
-    {
-     "url": "https://3.bp.blogspot.com/-K0UZCLwQbes/WOPZ6_zjAMI/AAAAAAAAD2U/DF6s7iseAYE_EYz6yeveytljbu4prC9RwCLcB/s640/alan-walker-face-and-full-body-wallpaper.jpg"
-    }
-   ],
-   "author": {
-    "id": "g106350186227191394109",
-    "displayName": "Agus Tamanuri",
-    "url": "https://www.blogger.com/profile/04364554722322845234",
-    "image": {
-     "url": "//lh3.googleusercontent.com/-nbsxt9Ql-oo/AAAAAAAAAAI/AAAAAAAAERs/5o5uxI0f62k/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5452005007380124941/posts/6708367016845335442/comments"
-   },
-   "labels": [
-    "Jaket"
-   ]
-  },
-  {
-   "kind": "blogger#post",
-   "id": "1498380055298222947",
-   "blog": {
-    "id": "5452005007380124941"
-   },
-   "published": "2017-04-04T06:59:00+07:00",
-   "updated": "2018-07-05T10:09:16+07:00",
-   "etag": "\"6YgnukNTybWNqfyQ59zQxEe_LDQ/dGltZXN0YW1wOiAxNTMwNzYwMTU2MjkwCm9mZnNldDogMjUyMDAwMDAK\"",
-   "url": "http://godropship.blogspot.com/2017/04/dropship-jaket-coach-windbreaker-assc.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5452005007380124941/posts/1498380055298222947",
-   "title": "Dropship Coach Windbreaker ASSC Sablon Polyflex",
-   "images": [
-    {
-     "url": "https://4.bp.blogspot.com/-qQ8SMkZp-WE/WOLX3rG-FNI/AAAAAAAAD1Y/DsBds5TpdyY6dHIbO68f60ld70Vsc9pYQCLcB/s640/Jaket%2BWindbreaker%2BASSC%2BBahan%2BWaterproof.png"
-    }
-   ],
-   "author": {
-    "id": "g106350186227191394109",
-    "displayName": "Agus Tamanuri",
-    "url": "https://www.blogger.com/profile/04364554722322845234",
-    "image": {
-     "url": "//lh3.googleusercontent.com/-nbsxt9Ql-oo/AAAAAAAAAAI/AAAAAAAAERs/5o5uxI0f62k/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5452005007380124941/posts/1498380055298222947/comments"
-   },
-   "labels": [
-    "Jaket"
-   ]
-  },
-  {
-   "kind": "blogger#post",
-   "id": "6976337602681923940",
-   "blog": {
-    "id": "5452005007380124941"
-   },
-   "published": "2017-04-04T02:10:00+07:00",
-   "updated": "2018-07-05T10:10:28+07:00",
-   "etag": "\"6YgnukNTybWNqfyQ59zQxEe_LDQ/dGltZXN0YW1wOiAxNTMwNzYwMjI4ODQyCm9mZnNldDogMjUyMDAwMDAK\"",
-   "url": "http://godropship.blogspot.com/2017/04/dropship-jaket-coach-windbreaker.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5452005007380124941/posts/6976337602681923940",
-   "title": "Dropship Jaket Coach Windbreaker Murah Meriah",
-   "images": [
-    {
-     "url": "https://4.bp.blogspot.com/-OvImIfb31pc/WOKZk3ceyoI/AAAAAAAAD0k/VTABNFWB9RgkuXNSFwzbV-MAAj-6hHRAACLcB/s640/Line%2BProduk.png"
-    }
-   ],
-   "author": {
-    "id": "g106350186227191394109",
-    "displayName": "Agus Tamanuri",
-    "url": "https://www.blogger.com/profile/04364554722322845234",
-    "image": {
-     "url": "//lh3.googleusercontent.com/-nbsxt9Ql-oo/AAAAAAAAAAI/AAAAAAAAERs/5o5uxI0f62k/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5452005007380124941/posts/6976337602681923940/comments"
-   },
-   "labels": [
-    "Jaket"
-   ]
-  },
-  {
-   "kind": "blogger#post",
-   "id": "689358600249434918",
-   "blog": {
-    "id": "5452005007380124941"
-   },
-   "published": "2017-03-26T14:22:00+07:00",
-   "updated": "2018-07-05T10:11:11+07:00",
-   "etag": "\"6YgnukNTybWNqfyQ59zQxEe_LDQ/dGltZXN0YW1wOiAxNTMwNzYwMjcxNDAyCm9mZnNldDogMjUyMDAwMDAK\"",
-   "url": "http://godropship.blogspot.com/2017/03/jual-jaket-coach-thrasher-pentagram.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5452005007380124941/posts/689358600249434918",
-   "title": "Jaket Coach Thrasher Pentagram Hitam Waterproof",
-   "images": [
-    {
-     "url": "https://2.bp.blogspot.com/-1wPmMZn3f8s/WNuAdxCD-SI/AAAAAAAADuY/ZtTlXbUrEuYJMgthkpa7YxTs3PfEUIcJwCLcB/s640/Jaket%2BCoach%2BWindbreaker%2BTrasher%2Bby%2BDondom.png"
-    }
-   ],
-   "author": {
-    "id": "g106350186227191394109",
-    "displayName": "Agus Tamanuri",
-    "url": "https://www.blogger.com/profile/04364554722322845234",
-    "image": {
-     "url": "//lh3.googleusercontent.com/-nbsxt9Ql-oo/AAAAAAAAAAI/AAAAAAAAERs/5o5uxI0f62k/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5452005007380124941/posts/689358600249434918/comments"
-   },
-   "labels": [
-    "Jaket"
-   ]
-  }
- ],
- "etag": "\"6YgnukNTybWNqfyQ59zQxEe_LDQ/MjAxOC0wNy0wNlQxMzo0NDo0MS45MDVa\""
 }
-
