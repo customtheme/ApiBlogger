@@ -353,7 +353,7 @@ ul {
 .review-hd {
   min-height: 314px;
   position: relative;
-  width: 728px; }
+  width: 100%; }
 
 .review-hd .article-info {
   position: absolute;
@@ -364,11 +364,11 @@ ul {
   text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.8);
   z-index: 5;
   height: 314px;
-  width: 728px; }
+  width: 100%px; }
 
 .article-info .center-stage {
   height: 224px;
-  width: 728px;
+  width: 100%;
   padding-left: 10px;
   position: relative; }
 
