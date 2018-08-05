@@ -1,0 +1,600 @@
+@charset "UTF-8";
+@font-face {
+  font-family: Arimo;
+  font-style: normal;
+  font-weight: 400;
+  src: local("Arimo"), url(//fonts.gstatic.com/s/arimo/v9/HNu4Nzh6q8Es60EMNZhs9w.woff2) format("woff2"), url(//fonts.gstatic.com/s/arimo/v9/wZLYhRRxZWGToTRP78bqJQ.woff) format("woff"); }
+
+@font-face {
+  font-family: Arimo;
+  font-style: normal;
+  font-weight: 700;
+  src: local("Arimo Bold"), local("Arimo-Bold"), url(//fonts.gstatic.com/s/arimo/v9/27rE5lMk9EHpLbxiIuGd0PesZW2xOQ-xsNqO47m55DA.woff2) format("woff2"), url(//fonts.gstatic.com/s/arimo/v9/UnXpojilM3XslYxUnWuVe_esZW2xOQ-xsNqO47m55DA.woff) format("woff"); }
+
+@font-face {
+  font-family: Google-Oswald;
+  font-style: normal;
+  font-weight: 300;
+  src: url(//themes.googleusercontent.com/static/fonts/oswald/v8/HqHm7BVC_nzzTui2lzQTDT8E0i7KZn-EPnyo3HZu7kw.woff) format("woff"); }
+
+@font-face {
+  font-family: Google-Oswald;
+  font-style: normal;
+  font-weight: 400;
+  src: url(//themes.googleusercontent.com/static/fonts/oswald/v8/-g5pDUSRgvxvOl5u-a_WHw.woff) format("woff"); }
+
+.icon-actual-size-7:before {
+  content: "\e947"; }
+
+.icon-no-actual-size:before {
+  content: "\e948"; }
+
+.icon-stopwatch:before {
+  content: "\e92a"; }
+
+.icon-small-menu:before {
+  content: "\e932";
+  color: #eee;
+  font-size: 23px;
+  line-height: 21px; }
+
+.icon-minify-2:before {
+  content: "\e94b"; }
+
+.icon-expand-2:before {
+  content: "\e94a"; }
+
+.icon-fit:before {
+  content: "\e619"; }
+
+.icon-expand:before {
+  content: "\e989"; }
+
+.icon-contract:before {
+  content: "\e98a"; }
+
+.icon-arrow-circle-right:before {
+  content: "\e618"; }
+
+.icon-info:before {
+  content: "\e936"; }
+
+.icon-equalizer2:before {
+  content: "\e933"; }
+
+.icon-radio-checked2:before {
+  content: "\ea55"; }
+
+.icon-radio-unchecked:before {
+  content: "\ea57"; }
+
+.icon-check-alt:before {
+  content: "\e616"; }
+
+.icon-spinner:before {
+  content: "\e90b"; }
+
+.icon-memory-chip:before,
+.icon-sd-card-0:before {
+  content: "\e916"; }
+
+.icon-battery-1:before,
+.icon-locked-battery:before {
+  content: "\e910"; }
+
+.icon-alert:before {
+  content: "\e60d"; }
+
+.icon-soc-youtube2:before {
+  content: "\ea1c"; }
+
+.icon-blocked:before {
+  content: "\e942"; }
+
+.icon-checkmark:before {
+  content: "\e92d"; }
+
+.icon-arrow-right:before {
+  content: "\ea34"; }
+
+.icon-tip-us:before {
+  content: "\e903"; }
+
+.icon-phone-specs:before {
+  content: "\e601"; }
+
+.icon-360-view:before {
+  content: "\e90b"; }
+
+.icon-user-reviews:before {
+  content: "\e93c"; }
+
+.icon-post-comment:before {
+  content: "\e93f"; }
+
+.icon-sd-card-1:before,
+.icon-sd-card:before {
+  content: "\e605"; }
+
+.icon-touch-1:before,
+.icon-touch:before {
+  content: "\e91a"; }
+
+.icon-post-ago:before {
+  content: "\e607"; }
+
+.icon-cpu:before {
+  content: "\e917"; }
+
+.icon-search-right:before {
+  content: "\e927"; }
+
+.icon-search-left:before {
+  content: "\e93a"; }
+
+.icon-ask {
+  content: "\e900"; }
+
+.icon-mobile-phone231:before {
+  content: "\e939"; }
+
+.icon-popularity:before {
+  content: "\e91c"; }
+
+.icon-soc-twitter:before {
+  content: "\ea92"; }
+
+.icon-soc-rss:before {
+  content: "\ea95"; }
+
+.icon-soc-youtube:before {
+  content: "\e908"; }
+
+.icon-news:before {
+  content: "\e904"; }
+
+.icon-pictures:before {
+  content: "\e92b"; }
+
+.icon-rumored:before {
+  content: "\e938"; }
+
+.icon-launched:before {
+  content: "\e915"; }
+
+.icon-review:before {
+  content: "\e929";
+  position: relative;
+  top: -1px; }
+
+.icon-warning:before {
+  content: "\ea07"; }
+
+.icon-login:before {
+  content: "\e90c"; }
+
+.icon-signout:before {
+  content: "\e90d"; }
+
+.icon-checked:before {
+  content: "\ea52"; }
+
+.icon-unchecked:before {
+  content: "\ea53"; }
+
+.icon-os:before {
+  content: "\e926"; }
+
+.icon-os2:before {
+  content: "\ea81"; }
+
+.icon-soc-gplus:before {
+  content: "\e905"; }
+
+.icon-soc-twitter2:before {
+  content: "\e907"; }
+
+.icon-soc-rss2:before {
+  content: "\e906"; }
+
+.icon-apple:before {
+  content: "\eabf"; }
+
+.icon-android:before {
+  content: "\eac1"; }
+
+.icon-comment-3:before {
+  content: "\e60a"; }
+
+.icon-mobile:before {
+  content: "\e958"; }
+
+.icon-mobile2:before {
+  content: "\e91f"; }
+
+.icon-touch-0:before {
+  content: "\e919"; }
+
+.icon-stats-dots:before {
+  content: "\e99b"; }
+
+.icon-fans:before {
+  content: "\e920"; }
+
+.icon-camera-1:before,
+.icon-camera:before {
+  content: "\e913"; }
+
+.icon-location:before {
+  content: "\e91e"; }
+
+.icon-clock:before {
+  content: "\e94e"; }
+
+.icon-clock2:before {
+  content: "\e93b"; }
+
+.icon-reply:before {
+  content: "\e934";
+  display: inline-block; }
+
+.icon-user:before {
+  content: "\e90a"; }
+
+.icon-user-plus:before {
+  content: "\e909";
+  top: 2px;
+  position: relative; }
+
+.icon-camera-0:before,
+.icon-no-camera:before {
+  content: "\e914"; }
+
+.icon-soc-fb2:before {
+  content: "\e904"; }
+
+.icon-comment-count:before {
+  content: "\e92f"; }
+
+.icon-comments:before {
+  content: "\e94c"; }
+
+.icon-reply-all:before {
+  content: "\e934"; }
+
+.icon-battery-0:before,
+.icon-battery:before {
+  content: "\e912"; }
+
+.icon-shopping-cart:before {
+  content: "\e613"; }
+
+.icon-cart:before {
+  content: "\e93e"; }
+
+.icon-compare:before {
+  content: "\e92c"; }
+
+.icon-in-the-news:before {
+  content: "\e91d"; }
+
+.article-info-meta-link .icon-in-the-news:before {
+  font-size: 26px; }
+
+.head-icon {
+  font-family: gsmarena;
+  speak: none;
+  font-style: normal;
+  font-weight: 400;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+i.icon {
+  background-repeat: no-repeat;
+  display: inline-block;
+  vertical-align: text-top; }
+
+.icon.icon-more-buttons {
+  width: 33px;
+  height: 27px;
+  line-height: 16px;
+  left: -5px;
+  float: left; }
+
+*,
+:after,
+:before {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -ms-box-sizing: border-box; }
+
+ul{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  vertical-align: baseline;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -ms-box-sizing: border-box; }
+
+a {text-decoration:none;}
+ul {
+  list-style: none; }
+
+.spin-360-deg {
+  width: 100%;
+  position: relative; }
+
+.spin-360-deg::before {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 100%;
+  position: absolute; }
+
+.spin-360-deg .spin-360-arrows {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-image: url(//cdn.gsmarena.com/vv/assets10/i/360-degree-spin-icon-480x100px.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0.1;
+  transition: 0.2s; }
+
+.review-hd {
+  min-height: 314px;
+  position: relative;
+  width: 728px; }
+
+.review-hd .article-info {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-bottom: none;
+  color: #eee;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.8);
+  z-index: 5;
+  height: 314px;
+  width: 728px; }
+
+.article-info .center-stage {
+  height: 224px;
+  width: 728px;
+  padding-left: 10px;
+  position: relative; }
+
+.center-stage .article-hgroup {
+  position: absolute;
+  bottom: 10px;
+  width: 95%; }
+
+.center-stage .article-hgroup-news {
+  position: absolute;
+  bottom: 10px;
+  width: 95%; }
+
+.article-info-line {
+  height: 45px;
+  left: 0;
+  position: relative;
+  width: 100%;
+  border-top: 1px solid rgba(255, 255, 255, 0.5);
+  z-index: 5;
+  overflow: hidden; }
+
+.article-info-line.no-overflow {
+  overflow: initial; }
+
+.article-info-line-standalone {
+  border-top: 1px solid #ccc;
+  background: #ddd; }
+
+.article-info-line .blur,
+.article-info-line .no-blur {
+  background-position: 0 0;
+  position: absolute;
+  top: 0;
+  width: 99.9%;
+  height: 100%;
+  left: 0;
+  z-index: -1; }
+
+.article-info-line.light {
+  border-top: 1px solid rgba(150, 150, 150, 0.7); }
+
+.article-info-line.border-bottom {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  border-top: none; }
+
+.article-info-line .blur {
+  -webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -o-filter: blur(5px);
+  -ms-filter: blur(5px);
+  filter: blur(5px);
+  -webkit-transform: translate3d(0, 0, 0);
+  -moz-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+  overflow: hidden;
+  padding-right: 1px; }
+
+.article-info-meta .head-icon {
+  font-size: 21px;
+  color: #fff;
+  position: relative;
+  top: -1px;
+  vertical-align: middle;
+  margin-right: 5px; }
+
+.article-info-meta-link-review .head-icon {
+  font-size: 21px; }
+
+.blur.grey:after {
+  background-color: rgba(155, 155, 155, 0.2);
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 130%;
+  height: 130%;
+  opacity: .7;
+  z-index: -1; }
+
+.blur.bottom,
+.no-blur.bottom {
+  background-position: 0 -269px; }
+
+.article-info-name {
+  position: relative;
+  font: 400 40px/1.5 Google-Oswald, Arimo, Arial, sans-serif;
+  color: #fff;
+  -webkit-box-decoration-break: clone;
+  -moz-box-decoration-break: clone;
+  -ms-box-decoration-break: clone;
+  box-decoration-break: clone;
+  padding: 0 5px;
+  display: inline;
+  background: url(../i/pattern-diag-dark-33.png);
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8); }
+
+.article-info-name-standalone {
+  text-shadow: none;
+  font: 400 30px/1.28 Google-Oswald, Arimo;
+  padding: 10px; }
+
+.inverted h1 {
+  text-shadow: 1px 1px 2px white;
+  color: #000; }
+
+.article-info .article-info-subtitle {
+  font: 300 32px Arimo, Arial, sans-serif;
+  display: inline;
+  color: #333;
+  background: rgba(255, 255, 255, 0.75);
+  padding: 0 5px;
+  margin-bottom: -12px;
+  text-shadow: none; }
+
+.nr-tags select {
+  width: 200px;
+  border: 1px solid #ccc;
+  border-radius: 2px; }
+
+.article-info-meta .left {
+  float: left;
+  padding-left: 10px; }
+
+.article-info-meta-tags {
+  font: 12px Arimo, Arial, sans-serif; }
+
+.article-info-meta-tags strong {
+  text-transform: uppercase; }
+
+.article-info-meta-tags a {
+  text-decoration: underline; }
+
+.article-info-meta-link a:hover > .head-icon,
+.help-submit-button {
+  text-decoration: none !important; }
+
+.article-info-meta {
+  padding: 0; }
+
+.article-info-meta span {
+  font-size: 12px;
+  text-align: right;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8); }
+
+.float-left .article-info-meta li {
+  float: left; }
+
+.article-info-meta li {
+  float: right;
+  line-height: 44px;
+  position: relative;
+  z-index: 10; }
+
+.article-info-meta-link a {
+  display: block;
+  padding: 0 10px;
+  min-width: 140px;
+  font: 400 14px/44px Google-Oswald, Arial, sans-serif;
+  text-transform: uppercase;
+  color: #fff;
+  text-align: center; }
+
+.normal-text {
+  margin: 0 30px; }
+
+.article-info .meta-author {
+  left: 10px;
+  top: 17px;
+  bottom: auto;
+  right: auto;
+  color: #fafafa;
+  font: 400 11px Arimos, Arial, sans-serif; }
+
+.article-info-line-standalone .article-info-meta-link a {
+  color: #777;
+  text-shadow: none; }
+
+.article-info-meta-link a {
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
+  position: relative;
+  z-index: 11;
+  -webkit-perspective: 1000;
+  perspective: 1000;
+  -moz-perspective: 1000;
+  -ms-perspective: 1000; }
+
+.article-info-meta-link-review.has-short a {
+  display: inline-block;
+  width: auto;
+  min-width: initial;
+  position: relative; }
+
+.article-info-meta-link-review.has-short a:first-child {
+  min-width: 128px;
+  border-right: 1px solid rgba(255, 255, 255, 0.3); }
+
+.article-info-meta-link-review.has-short a:last-child {
+  padding: 0;
+  float: right;
+  min-width: 38px; }
+
+.article-info-meta-link-review a:last-child .icon-stopwatch {
+  left: 3px;
+  top: -2px; }
+
+.article-info-meta-link a:hover {
+  text-decoration: none !important;
+  color: #fff; }
+
+.main-review .article-info-meta-link-review {
+  width: 167px; }
+
+.article-info-meta-link-review {
+  border-right: 1px solid rgba(255, 255, 255, 0.3);
+  position: relative;
+  float: left !important; }
+
+.review-header {
+  width: 728px;
+  height: 314px;
+  float: none; }
+
+/*** SYMBOLS ***/
+@font-face {
+  font-family: gsmarena;
+  src: url(//cdn.gsmarena.com/vv/assets10/fonts/gsmarena.woff) format("woff");
+  font-weight: 400;
+  font-style: normal; }
